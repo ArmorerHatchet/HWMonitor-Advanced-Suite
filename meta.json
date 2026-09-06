@@ -1,0 +1,23 @@
+{
+  "repo": "hwmonitor-advanced-suite",
+  "product": "HWMonitor Advanced Suite",
+  "kind": "utility",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new3",
+  "format": "license-md-toolix-v1",
+  "category": "utility",
+  "topics": [
+    "hwmonitor",
+    "sensor-readout",
+    "cpu-temps",
+    "voltage-monitor",
+    "hardware-stats",
+    "hwmonitor-setup-failed-fix",
+    "how-to-install-hwmonitor",
+    "hwmonitor-windows",
+    "hwmonitor-desktop-2026",
+    "hwmonitor-desktop-package"
+  ],
+  "site": "toolix.me"
+}
